@@ -1,4 +1,4 @@
-# 01 — LED Blink with Timer Interrupt
+# 01 - LED Blink with Timer Interrupt
 
 ## What This Does
 Blinks an onboard LED using a hardware timer interrupt
