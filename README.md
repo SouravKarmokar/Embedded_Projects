@@ -10,7 +10,7 @@ control systems implementation.
 ## Roadmap
 
 ### Phase 0 — Simulation (STM32 Nucleo C031C6 on Wokwi)
-- [X ] GPIO and timer-based LED control
+- [ x ] GPIO and timer-based LED control
 - [ ] UART serial communication
 - [ ] Hardware timer interrupts
 - [ ] I2C communication with MPU-6050 IMU
