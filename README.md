@@ -4,7 +4,7 @@ Practical embedded systems development focused on STM32
 microcontrollers, real-time firmware, and custom PCB design. 
 This repository documents a structured learning path toward 
 designing and implementing a custom drone flight controller 
-from scratch — covering firmware, hardware design, and 
+from scratch - covering firmware, hardware design, and 
 control systems implementation.
 
 ## Roadmap
