@@ -1,4 +1,4 @@
-# Embedded Systems — Flight Controller Development
+# Embedded Systems - Flight Controller Development
 
 Practical embedded systems development focused on STM32 
 microcontrollers, real-time firmware, and custom PCB design. 
