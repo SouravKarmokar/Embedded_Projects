@@ -9,26 +9,26 @@ control systems implementation.
 
 ## Roadmap
 
-### Phase 0 — Simulation (STM32 Nucleo C031C6 on Wokwi)
+### Phase 0 - Simulation (STM32 Nucleo C031C6 on Wokwi)
 - [ ] GPIO and timer-based LED control
 - [ ] UART serial communication
 - [ ] Hardware timer interrupts
 - [ ] I2C communication with MPU-6050 IMU
 - [ ] PWM signal generation
 
-### Phase 1 — Real Hardware (STM32 Blue Pill)
+### Phase 1 - Real Hardware (STM32 Blue Pill)
 - [ ] STM32 flashing via ST-Link
 - [ ] Real IMU data acquisition and noise analysis
 - [ ] Complementary filter for angle estimation
 - [ ] PID controller implementation in C
 - [ ] DShot ESC protocol
 
-### Phase 2 — System Integration
+### Phase 2 - System Integration
 - [ ] 1-axis stabilization system
 - [ ] Custom PCB design in EasyEDA
 - [ ] Power distribution board design
 
-### Phase 3 — Custom Flight Controller PCB
+### Phase 3 - Custom Flight Controller PCB
 - [ ] STM32F405-based FC schematic
 - [ ] PCB fabrication and assembly
 - [ ] Betaflight target configuration
